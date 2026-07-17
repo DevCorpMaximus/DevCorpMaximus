@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Corporación Maximus 1999 · Departamento de Tecnología" width="100%" />
+<img src="./assets/banner-final.png" alt="Corporación Maximus 1999 · Departamento de Tecnología" width="100%" />
 
 <br><br>
 
