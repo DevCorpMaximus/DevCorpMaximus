@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Corporación Maximus 1999 · Departamento de Tecnología" width="100%" />
+<img src="./assets/banner.png" alt="Corporación Maximus 1999 · Departamento de Tecnología" width="100%" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Especialidad-Odoo-2030B0?style=for-the-badge&labelColor=0C1A5E" />
+<img src="https://img.shields.io/badge/Odoo-2030B0?style=for-the-badge&labelColor=0C1A5E" />
 &nbsp;
-<img src="https://img.shields.io/badge/También-Desarrollo_web-3E7E9E?style=for-the-badge&labelColor=0C1A5E" />
+<img src="https://img.shields.io/badge/Desarrollo_web-3E7E9E?style=for-the-badge&labelColor=0C1A5E" />
 &nbsp;
-<img src="https://img.shields.io/badge/Norte-Clean_code_escalable-4080A0?style=for-the-badge&labelColor=0C1A5E" />
+<img src="https://img.shields.io/badge/Soluciones_agénticas-4080A0?style=for-the-badge&labelColor=0C1A5E" />
 
 </div>
 
@@ -20,22 +20,26 @@
 
 <br>
 
-## 🚀 Qué hacemos
+## ⚙️ Qué hacemos
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🧩 Implementaciones Odoo
-**Nuestro fuerte y especialidad.**
-Configuración, módulos a medida, migraciones, integraciones y soporte continuo.
+**Nuestro fuerte y especialidad.** Configuración, módulos a medida, migraciones, integraciones y soporte continuo.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🌐 Desarrollo web
-**Sitios y aplicaciones a medida.**
-Del sitio corporativo a la app de negocio.
+**Sitios y aplicaciones a medida.** Del sitio corporativo a la aplicación de negocio.
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 Soluciones agénticas
+**Agentes de IA aplicados al negocio.** Automatización de procesos y asistentes inteligentes, integrados con tus sistemas — Odoo incluido.
 
 </td>
 </tr>
@@ -43,7 +47,7 @@ Del sitio corporativo a la app de negocio.
 
 <br>
 
-## 🛠️ Stack
+## 🧰 Stack
 
 <div align="center">
 
@@ -58,7 +62,7 @@ Del sitio corporativo a la app de negocio.
 
 <br>
 
-## 📐 Cómo trabajamos
+## 🔒 Cómo trabajamos
 
 > **Escribimos siguiendo estándares → el control de calidad automático lo confirma → si algo falla, no sube.**
 
@@ -68,13 +72,13 @@ Trabajamos con **estándares versionados** y **control de calidad automático** 
 
 <div align="center">
 
-### 📫 Contacto
+## 📧 Contacto
 
 <a href="mailto:dev@maximus.com.ve"><img src="https://img.shields.io/badge/dev@maximus.com.ve-2030B0?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0C1A5E" /></a>
 
 <br><br>
 
 <sub>⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</sub><br>
-<sub>© 2026 **Corporación Maximus 1999, C.A.** · Departamento de Tecnología</sub>
+<sub>© 2026 <b>Corporación Maximus 1999, C.A.</b> · Departamento de Tecnología</sub>
 
 </div>
